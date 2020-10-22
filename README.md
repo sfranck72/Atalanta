@@ -16,7 +16,7 @@ Manually, you can launch the game by typing ATALANTA and <entry> in DOS mode.
 
 I inserted some goodies in the disk :
 - Launch BLOAD in DOS mode (for a pixelart picture).
-- Launch PALETTE in DOS mode to modify a palette file in PL5 format to a format Fusion format palette (DEV tool).
+- Launch PALETTE in DOS mode to modify a palette file in PL5 format to a Fusion format palette (DEV tool).
 
 Code : 
 Open the "main.c" file to see my nasty Fusion code (my first program in C).  
