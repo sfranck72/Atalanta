@@ -12,9 +12,9 @@ Need a MSX2 minimum (SCREEN 5).
   - English.
 
 How to play :
-Insert the ATALAN_E.dsk (ATALAN_F.dsk for French version) in a MSX emulator drive.
-There's a autoexec that launch the game.
-Manually, you can launch the game by typing ATALANTA and <entry> in DOS mode.
+Insert the ATALAN_E.dsk (ATALAN_F.dsk for French version) in a MSX emulator drive.  
+There's a autoexec that launch the game.  
+Manually, you can launch the game by typing ATALANTA and <entry> in DOS mode.  
 
 I inserted some goodies in the disk :
 - Launch BLOAD in DOS mode (for a pixelart picture).
