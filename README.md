@@ -1,7 +1,7 @@
 # Atalanta
 MSX game by sfranck72
 
-From a BASIC listing in a spanish Book (NEUTRONIA game).  
+From a BASIC listing in a spanish book (NEUTRONIA game).  
 Adapted to Fusion-C 1.2  
 Need a *MSX2* minimum (SCREEN 5).
 
