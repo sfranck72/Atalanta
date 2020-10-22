@@ -22,7 +22,7 @@ Code :
 Open the "main.c" file to see my nasty Fusion code (my first program in C).  
 When I compile via the "compil.bat" it update the "dsk" directory.  
 If you want to compil the french version, you must change the name : main-french.c > main.c  
-Note :The compil mode in Fusion-C need the "fusion-c" library wich is a directory near the "dsk"directory (not provided in this repo).  
+Note :The compil mode in Fusion-C need the "fusion-c" library wich is a directory near the "dsk" directory (not provided in this repo).  
 
 Long life MSX.  
 sfranck72...oct 2020...somewhere in France.
