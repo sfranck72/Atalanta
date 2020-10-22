@@ -2,11 +2,14 @@
 MSX game by sfranck72
 
 From a BASIC listing in a spanish Book (NEUTRONIA game).
+
 Adapted to Fusion-C 1.2
+
 Need a MSX2 minimum (SCREEN 5).
+
 2 dsk versions : 
-  -Française.
-  -English.
+  - Française.
+  - English.
 
 How to play :
 Insert the ATALAN_E.dsk (ATALAN_F.dsk for French version) in a MSX emulator drive.
